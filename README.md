@@ -1,2 +1,3 @@
 # hello-world
-inicializando o ambiente!
+hello humans,nice to meet you...
+This is my first README, basically a kkk guinea pig. But soon has good thing being posted qui... until soon!
